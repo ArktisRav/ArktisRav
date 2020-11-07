@@ -1,4 +1,6 @@
-### Hi there 👋
+### Heyo! I am ArktisRäv. 
+
+I am a Junior Highschool Student as of Aug 2020. I am program in JavaScript & Visual Basic. My current project is a dumb discord bot that makes things do things.
 
 <!--
 **ArktisRav/ArktisRav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
